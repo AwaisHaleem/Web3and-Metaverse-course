@@ -1,0 +1,100 @@
+.color-chart {
+    /* width: 200px; */
+    /* height: 400px; */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  
+  .color-band {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .color-cell {
+    margin: 5px;
+    width: 90%;
+    height: 20px;
+    background-color: #6b1a1a;
+    border-radius: 2px;
+    font-size: 12px;
+    /* text-align:center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-anchor: middle; */
+  }
+
+  
+
+  p{
+    padding: 0%;
+    margin: 0%;
+    text-align: start;
+    width: 17%;
+    overflow: hidden;
+    text-transform: capitalize;
+    word-spacing: 0.3rem;
+  }
+   
+  
+  .pH-1 {
+    background-color: #ff0000;
+  }
+  
+  .pH-2 {
+    background-color: #ff3300;
+  }
+  
+  .pH-3 {
+    background-color: #ff6600;
+  }
+  
+  .pH-4 {
+    background-color: #ff9900;
+  }
+  
+  .pH-5 {
+    background-color: #ffcc00;
+  }
+  
+  .pH-6 {
+    background-color: #ffff00;
+  }
+  
+  .pH-7 {
+    background-color: #ccff00;
+  }
+  
+  .pH-8 {
+    background-color: #99ff00;
+  }
+  
+  .pH-9 {
+    background-color: #66ff00;
+  }
+  
+  .pH-10 {
+    background-color: #33ff00;
+  }
+  
+  .pH-11 {
+    background-color: #00ff00;
+  }
+  
+  .pH-12 {
+    background-color: #00ff99;
+  }
+  
+  .pH-13 {
+    background-color: #00ffff;
+  }
+  
+  .pH-14 {
+    background-color: #0099ff;
+  }
+
+  .pH-15 {
+    background-color: #3300ff;
+  }
+  

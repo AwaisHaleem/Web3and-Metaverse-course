@@ -1,0 +1,34 @@
+
+/* class selector */
+/* .a{
+    color: blueviolet;
+} */
+
+/* child Selector */
+/* li>a {
+    color: cadetblue;
+} */
+
+/* descendent selector */
+/* li a {
+    color: rgb(153, 51, 51);
+} */
+
+/* sibling selector */
+/* h1+p {
+    color: aqua;
+} */
+
+/* general sibling selector */
+/* h1 ~ p {
+    color: red;
+  }  */
+
+  /* imporatant keyword */
+  p {
+    color: greenyellow !important;
+  }
+
+  p.a{
+    color: burlywood;
+  }
